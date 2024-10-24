@@ -6,7 +6,7 @@
 /*Header Bounds*/
 .background{
     width: 100%;
-    /*background-image: url(img/TempBackground2.jpg);*/
+    /*background-image: url(about/TempBackground2.jpg);*/
     background: linear-gradient(to top, rgba(255,255,255,0.5)50%, rgba(255,255,255,0.5)50%), url(about/TempBackground2.jpg);
     background-position: center;
     background-size: cover;
@@ -121,7 +121,7 @@ ul li a:hover{
 }
 
 .img-me{
-    background-image: url(img/avatar.jpg);
+    background-image: url(about/avatar.jpg);
     width: 325px;
     height: 426px;
     border: 25px solid whitesmoke;
